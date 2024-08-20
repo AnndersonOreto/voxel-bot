@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" tvg-logo="http://example.com/logo1.png" group-title="Sports",Channel 1
+http://example.com/stream1
+#EXTINF:-1 tvg-id="00001" tvg-name="SporTV SD" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV SD
+http://dzcdn.vood.top:80/hls/546_.m3u8
+#EXTINF:-1 tvg-id="00002" tvg-name="SporTV HD" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV HD
+https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00003" tvg-name="SporTV FHD" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV FHD 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
+#EXTINF:-1 tvg-id="00004" tvg-name="SporTV FHD Alter" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV FHD Alter
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/6a3cd02e803ddf024eb777f0101a2702/23.m3u8
+#EXTINF:-1 tvg-id="00005" tvg-name="SporTV UHD" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV UHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/183
+#EXTINF:-1 tvg-id="00006" tvg-name="SporTV 4K" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV 4K
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/183
+#EXTINF:-1 tvg-id="00007" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes",SporTV 2 SD
+http://dzcdn.vood.top:80/hls/551_.m3u8
+#EXTINF:-1 tvg-id="00008" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes",SporTV 2 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
+#EXTINF:-1 tvg-id="00009" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes",SporTV 2 FHD
+https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00010" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Esportes",SporTV 3 SD
+http://dzcdn.vood.top:80/hls/556_.m3u8
+#EXTINF:-1 tvg-id="00011" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Esportes",SporTV 3 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/175
+#EXTINF:-1 tvg-id="00012" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Esportes",SporTV 3 FHD
+https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00013" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN SD
+https://cdn-4.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="00014" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN HD
+https://cdn-4.nxplay.com.br/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="00015" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN HD Alter
+http://hzcdn.vood.top:80/hls/208_.m3u8
+#EXTINF:-1 tvg-id="00016" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN UHD
+https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00017" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
+#EXTINF:-1 tvg-id="00018" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esportes",ESPN FHD Alter
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/130
+#EXTINF:-1 tvg-id="00019" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Esportes",ESPN 2 HD
+https://cdn-4.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="00020" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Esportes",ESPN 2 FHD
+http://cdnexpress.homelinux.net/live/47.m3u8
+#EXTINF:-1 tvg-id="00021" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Esportes",ESPN 3 HD
+https://cdn-4.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-1 tvg-id="00022" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes",ESPN 4 SD
+https://cdn-4.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00023" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes",ESPN 4 HD
+https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF:-1 tvg-id="00024" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes"",ESPN 4 FHD
+https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00025" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Esportes",ESPN 5 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/139
+#EXTINF:-1 tvg-id="00026" tvg-name="ESPN 5 FHD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Esportes",ESPN 5 FHD
+http://cdnexpress.homelinux.net/live/27.m3u8
+#EXTINF:-1 tvg-id="00027" tvg-name="ESPN 6 FHD" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Esportes",ESPN 6 FHD
+https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00028" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Esportes",Band Sports SD
+https://cdn-4.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00029" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Esportes",Band Sports HD
+https://cdn-4.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="00030" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Esportes",Band Sports UHD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+#EXTINF:-1 tvg-id="00031" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Esportes",Combate HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/123
+#EXTINF:-1 tvg-id="00032" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Esportes",Combate FHD
+https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00033" tvg-name="UFC Fightpass HD" tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Esportes",UFC Fightpass HD
+https://abc.embedmax.site/ufcfightpass/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00034" tvg-name="UFC Fightpass HD Alter" tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Esportes",UFC Fightpass HD Alter
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1121
+#EXTINF:-1 tvg-id="00035" tvg-name="UFL Fightpass FHD" tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Esportes",UFC Fightpass FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1122
+#EXTINF:-1 tvg-id="00036" tvg-name="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere Clubes HD
+http://izcdn.vood.top:80/hls/492_.m3u8
+#EXTINF:-1 tvg-id="00037" tvg-name="Premiere Clubes HD Alter" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere Clubes HD Alter
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/165
+#EXTINF:-1 tvg-id="00038" tvg-name="Premiere Clubes UHD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere Clubes UHD
+https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00039" tvg-name="Premiere Clubes FHD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere Clubes FHD
+https://cr7v.short.gy/manoiptvfree/PFCCLUBEHD/Index.m3u8
+#EXTINF:-1 tvg-id="00040" tvg-name="Premiere Clubes FHD Alter" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere Clubes FHD Alter
+http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/6a3cd02e803ddf024eb777f0101a2702/3.m3u8
+#EXTINF:-1 tvg-id="00041" tvg-name="Premiere 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Esportes",Premiere 2 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
+#EXTINF:-1 tvg-id="00042" tvg-name="Premiere 2 HD Alter" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Esportes",Premiere 2 HD Alter
+https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00043" tvg-name="Premiere 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Esportes",Premiere 2 HD
+http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/14.m3u8
+#EXTINF:-1 tvg-id="00044" tvg-name="Premiere 2 FHD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Esportes",Premiere 2 FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/149
+#EXTINF:-1 tvg-id="00045" tvg-name="Premiere 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Esportes",Premiere 3 HD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/152
+#EXTINF:-1 tvg-id="00046" tvg-name="Premiere 3 HD Alter" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Esportes",Premiere 3 HD Alter
+https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00047" tvg-name="Premiere 3 FHD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Esportes",Premiere 3 FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/153
+#EXTINF:-1 tvg-id="00048" tvg-name="Premiere 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Esportes",Premiere 4 HD 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/154
+#EXTINF:-1 tvg-id="00049" tvg-name="Premiere 4 HD Alter" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Esportes",Premiere 4 HD Alter
+https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="00050" tvg-name="Premiere 4 FHD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Esportes",Premiere 4 FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/155
+#EXTINF:-1 tvg-id="00051" tvg-name="Premiere 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Esportes",Premiere 5 HD
+http://izcdn.vood.top:80/hls/511_.m3u8
+#EXTINF:-1 tvg-id="00052" tvg-name="Premiere 5 FHD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Esportes",Premiere 5 FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
+#EXTINF:-1 tvg-id="00053" tvg-name="Premiere 6 HD" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Esportes",Premiere 6 HD
+http://izcdn.vood.top:80/hls/517_.m3u8
+#EXTINF:-1 tvg-id="00054" tvg-name="Premiere 6 FHD" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Esportes",Premiere 6 FHD 
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
+#EXTINF:-1 tvg-id="00055" tvg-name="Premiere 7 HD" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Esportes",Premiere 7 HD
+http://izcdn.vood.top:80/hls/522_.m3u8
+#EXTINF:-1 tvg-id="00056" tvg-name="Premiere 7 FHD" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Esportes",Premiere 7 FHD
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
